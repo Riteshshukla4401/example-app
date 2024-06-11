@@ -6,6 +6,7 @@
   outline: none;
   transition: 0.2s;
   font-family: "Caudex", serif;
+   /* overflow:none; */
 }
 #start-banners{
     background-image: url('/img/banner-bg.jpg');
@@ -89,25 +90,132 @@ a > i{
     background-color: #D6D3CB;
 }
 
-
-/* box section */
-.bx-design h3{
-    font-size: 1rem;
-}
-.bx-design {
-    text-align: center;
-    border: 1px solid #fd7113;
-    padding: 20px 30px;
-    margin: 8px 0;
-    min-height:97%;
-    background-color:white;
-}
-.bx-design p {
-    margin-bottom: 0;
-    font-size: 14px;
-    line-height: 20px;
+.abouts-logo{
+  height:200px;
+  width:300px;
 }
 
+.service .card{
+  border:none;
+} 
+.card{
+  display:flex;
+  align-items:center;
+  justify-content:center; 
+  padding:25px;
+}
+
+.service-icon{
+  height:150px;
+  width:150px;
+  box-shadow: 3px 3px 17px rgb(8 5 5 / 50%);
+  border-radius:50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.service .service-icon img{
+  height:150px;
+  width:150px;
+  padding:30px;
+}
+.service p{
+  padding-top:25px;
+}
+.heading::after{
+  content:"";
+  border-bottom: 1px solid rgb(219, 217, 217);
+  width:30%;
+  position:absolute;
+  top:0;
+  right:0;
+  left:0;
+  bottom:0;
+  margin:auto;
+}
+.sicon2 {
+  display: none;
+}
+.service .service-icon:hover{
+  transform: scale(1.2);
+}
+.service .service-icon:hover .sicon2{
+ display:block; 
+}
+.service .service-icon:hover .sicon1{
+  display:none; 
+ }
+
+ #myBtnContainer button {
+  color: black;
+  margin: 0px 16px;
+  background-color: white;
+  border-bottom: 2px solid rgb(243, 246, 243);
+  border: none;
+  outline: none;
+  font-size: 22px;
+}
+#myBtnContainer button:focus {
+  border: none;
+  outline: none;
+  border-bottom: 2px solid #507dd2;
+  color: #507dd2;
+}
+#myBtnContainer button.active1 {
+  border: none;
+  outline: none;
+  border-bottom: 2px solid #507dd2;
+  color: #507dd2;
+}
+
+.rate .content {
+  /* border: 1px solid black; */
+  border-radius: 10px;
+  box-shadow: 3px 3px 17px rgba(51, 51, 51, 0.3);
+}
+
+.rate .imgcont {
+  height: 300px;
+  width: 100%;
+  /* overflow: hidden; */
+}
+.rate .imgcont img {
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+
+  height: 100%;
+  width: 100%;
+}
+
+.rate .content:hover {
+  transform: translateY(-20px);
+}
+.rate .pricebtn {
+  position: absolute;
+  /* top: 0%; */
+  bottom: -20px;
+  left: 0%;
+  right: 0%;
+  margin: auto;
+  background-color: #507dd2;
+  color: white;
+  padding: 7px 25px;
+  width: fit-content;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  z-index: 2;
+}
+.rate h5 {
+  margin-top: 20px;
+}
+
+.flex-all-prop{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+}
 /* footer section */
 /* .footer-area {
     background-color: #1a1a1a;
@@ -309,43 +417,3 @@ ol,ul {
   padding-left: 0rem !important;
 }
   
-
-/* card section  */
-.card {
-  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); */
-  max-width:300px;
-  text-align: center;
-  font-family: arial;
-}
-
-.price {
-  color: grey;
-  font-size: 22px;
-}
-
-.card button {
-  border: none;
-  outline: 0;
-  padding: 8px 15px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  /* width: 100%; */
-  font-size: 16px;
-}
-
-.card button:hover {
-  opacity: 0.7;
-}
-.card h1{
-  font-size:1.5rem
-}
-
-.card img{
-  border-radius: 0px;
-  /* box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;  */
-  padding: 10px 10px; 
-  transition: 0.3s;
-  cursor: pointer;
-}

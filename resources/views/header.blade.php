@@ -111,8 +111,8 @@
       </div>
     </div>
   </section>
-  <section>
-    <div class="container">
+  <section class="py-5">
+    <div class="container text-center">
       <h2>Namaste!!</h2>
       <h2>Hotel Mayur welcomes you in Haridwar!!</h2>
       <p class="">Considered as one of the holiest places in India, Haridwar, the Gateway to the Gods, is
@@ -125,212 +125,346 @@
         Pauri and just a
         milestone away from city Railway station and Bus Stand… <a href="#">READ MORE</a>
     </p>
+    <img src="img/Mayur-Logo.jpg" alt="" class="abouts-logo">
     </div>
   </section>
-
-      <section class="about-area ptb-100">
-        <div class="container">
-          <div class="row py-5 ">
-            <div class="about-img col-sm-5 box">
-              <img src="/img/about-img.jpg" alt="Abouts-image" class="img-fluid">
-            </div>
-            <div class="col-sm-7 px-3 d-flex flex-column justify-content-center">
-              <h3>What is Lorem Ipsum? </h3>
-              <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                When an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-                It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-                and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
-                he point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, 
-                content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text,
-                and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, 
-                sometimes by accident, sometimes on purpose (injected humour and the like).</P>
+    <section class="service pb-5">
+      <div class="container text-center">
+        <h2 class="heading pb-3 fw-900 position-relative">Leisure facilities we serve</h2>
+        <div class="row">
+          <div class="card col-xl-2 col-lg-3 col-md-4 col-sm-6 col-12">
+            <div class="card-container">
+              <div class="service-icon">
+                <img src="img/table-etiquettes.png " alt="" class="serives-icon sicon1">
+                <img src="img/table-etiquette.png" alt="" class="serives-icon sicon2"> 
               </div>
+              <p>In Room Dining</p>
+            </div>
+       </div> 
+          <div class="card col-xl-2 col-lg-3 col-md-4 col-sm-6 col-12">
+            <div class="card-container">
+              <div class="service-icon">
+                <img src="img/credit-cards.png " alt="" class="serives-icon sicon1">
+                <img src="img/credit-card.png" alt="" class="serives-icon sicon2"> -
+              </div>
+              <p>Travel Desk</p>
             </div>
           </div>
-        </section>
-        <section class="gallery-area py-5">
-          <div class="container">
-            <div class="row py-3">
-              <div class="col-sm-12 d-flex flex-column align-items-center">
-                <h3>What is Lorem Ipsum? </h3>
-                <P class="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                  When an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  
-                </P>
-              </div>  
-            </div>
-            <div class="row">
-              <div class="col-md-3">
-                <div class="bx-design">
-                  <img src="https://contentregistered.com/home/img/1.png" alt="">
-                  <h3>Content Registered</h3>
-                  <p>Easily Up Household Content</p>
-                  <p>Step By Step Instructions to Itemize Items</p>
-                  <p>Provides 3 different angles</p>
-                  <p>Upload Sales Receipts/ Warranties</p>
-                  <p>Pictures of security markings</p>
-                  <p>Separated into Categories</p>
-                  <p>Provides Status ( Damaged, Stolen, Sold Trashed)</p>
-                  <p>Upload pics of Damaged Items for Insurances</p>
-                  <p>Provide secure Dashboard Gateway for Insurance Viewing</p>
-                </div>
+          <div class="card col-xl-2 col-lg-3 col-md-4 col-sm-6 col-12">
+            <div class="card-container">
+              <div class="service-icon">
+                <img src="img/serving-dish.png " alt="" class="serives-icon sicon1">
+                <img src="img/serving-dishs.png" alt="" class="serives-icon sicon2"> 
               </div>
-              <div class="col-md-3">
-                <div class="bx-design">
-                  <img src="https://contentregistered.com/home/img/2.png" alt="">
-                  <h3>Insurance Gateway</h3>
-                  <p>Provides secure dashboard for claims department</p>
-                  <p>Provides proof of household content Items
-                    Receipts, Warranties, Damaged Area,</p>
-                    <p>Seamless communication with claims department</p>
-                    <p>Provides proof of security &amp; security and safety assessments</p>
-                  </div>
-                </div>
-                <div class="col-md-3">
-                  <div class="bx-design">
-                    <img src="https://contentregistered.com/home/img/4.png" alt="">
-                    <h3>Health/Safety and Compliance <br>( Holiday/Short Term Letting ONLY)</h3>
-                    <p>Provides and easy to use Maintenance Checklist</p>
-                    <p>Safety Self Assessments</p>
-                    <p>Upload Water Safety Documents </p>
-                    <p>Upload Electrical Safety Documents </p>
-                    <p>Conduct and proof of Fire safety Risk Self Assessments</p>
-                    <p>Gas Safety Certificate upload</p>
-                    <p>Tolerable Standards assessments</p>
-                    <p>Changeover Checklists assessments</p>                
-                  </div>
-                </div>
-                <div class="col-md-3">
-                <div class="bx-design">
-                    <img src="https://contentregistered.com/home/img/6.png" alt="">
-                    <h3>Security Self Assessments and Monitoring</h3>
-                    <p>Complete easy to use security self assessments</p>
-                    <p>Store security monitoring company contracts and Contacts</p>
-                    <p>Upload Police Reports for Stolen Items</p>
-                    <p>Provides Security and Safety Advice</p>
-                    <p>Secure storage of all Emergency Numbers</p>
-                  </div>
-                </div>
-              </div>  
+              <p>24-Hour Room Service</p>
             </div>
-          </section>
-
-          {{-- <section class="about-area ptb-100">
-            <div class="container">
-        <div class="row py-5 h-100 ">
-          <div class="about-img col-lg-6 col-sm-3 justify-content-between "> 
-            <img src="/img/about-img.jpg" alt="Abouts-image" class="img-fluid">
           </div>
-          <div class="about-img col-lg-6 col-sm-3 justify-content-beetween"> 
-            <img src="/img/about-img.jpg" alt="Abouts-image" class="img-fluid">
+          <div class="card col-xl-2 col-lg-3 col-md-4 col-sm-6 col-12">
+            <div class="card-container">
+              <div class="service-icon">
+                <img src="img/emergency-call.png " alt="" class="serives-icon sicon1">
+                <img src="img/emergency-calls.png" alt="" class="serives-icon sicon2"> 
+              </div>
+              <p>Lift</p>
+            </div>
           </div>
-          <div class="row py-2"></div>
-          <div class="col-lg-12 justify-content-center">
-            <h3 class="text-center">What is Lorem Ipsum? </h3>
-            <P class="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-              Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-              When an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-              It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-            </P>
-          </div> 
-        </div>
-      </section> --}}
-
-      
-      
-      <section class="about-area ptb-100 pt-5">
-        <div class="container">
-          <div class="text-center">
-            <h3>What is Lorem Ipsum? </h3>
+          <div class="card col-xl-2 col-lg-3 col-md-4 col-sm-6 col-12">
+            <div class="card-container">
+              <div class="service-icon">
+                <img src="img/elevator.png " alt="" class="serives-icon sicon1">
+                <img src="img/elevators.png" alt="" class="serives-icon sicon2"> 
+              </div>
+              <p>All Card Accepted</p>
+            </div>
           </div>
-          <div class="row py-5 responsive" >
-            <div class="col-lg-3"> 
-              <div class="card">
-                <img src="img/t-shirt1.jpg" alt="Denim Jeans" style="width:100%">
-                <h1>Tailored Jeans</h1>
-                <p class="price">$19.99</p>
-                <p>Some text about the jeans..</p>
-                <p><button>Add to Cart</button></p>
+          <div class="card col-xl-2 col-lg-3 col-md-4 col-sm-6 col-12">
+            <div class="card-container">
+              <div class="service-icon">
+                <img src="img/table-etiquettes.png " alt="" class="">
+                {{-- <img src="" alt="" class=""> --}}
               </div>
-            </div> 
-
-            <div class="col-lg-3"> 
-              <div class="card">
-                <img src="img/t-shirt2.jpg" alt="Denim Jeans" style="width:100%">
-                <h1>Tailored Jeans</h1>
-                <p class="price">$19.99</p>
-                <p>Some text about the jeans..</p>
-                <p><button>Add to Cart</button></p>
-              </div>
+              <p>Doctor on Call</p>
             </div>
-
-            <div class="col-lg-3"> 
-              <div class="card">
-                <img src="img/t-shirt3.jpg" alt="Denim Jeans" style="width:100%">
-                <h1>Tailored Jeans</h1>
-                <p class="price">$19.99</p>
-                <p>Some text about the jeans..</p>
-                <p><button>Add to Cart</button></p>
-              </div>
-            </div>
-
-            <div class="col-lg-3"> 
-              <div class="card">
-                <img src="img/t-shirt4.jpg" alt="Denim Jeans" style="width:100%">
-                <h1>Tailored Jeans</h1>
-                <p class="price">$19.99</p>
-                <p>Some text about the jeans..</p>
-                <p><button>Add to Cart</button></p>
-              </div>
-            </div>
-
-           <div class="col-lg-3"> 
-              <div class="card">
-                <img src="img/t-shirt5.jpg" alt="Denim Jeans" style="width:100%">
-                <h1>Tailored Jeans</h1>
-                <p class="price">$19.99</p>
-                <p>Some text about the jeans..</p>
-                <p><button>Add to Cart</button></p>
-              </div>
-            </div>
+          </div>
           
-          <div class="col-lg-3"> 
-            <div class="card">
-              <img src="img/t-shirt5.jpg" alt="Denim Jeans" style="width:100%">
-              <h1>Tailored Jeans</h1>
-              <p class="price">$19.99</p>
-              <p>Some text about the jeans..</p>
-              <p><button>Add to Cart</button></p>
-            </div>
-          </div>
 
-        <div class="col-lg-3 "> 
-          <div class="card">
-            <img src="img/t-shirt3.jpg" alt="Denim Jeans" style="width:100%">
-            <h1>Tailored Jeans</h1>
-            <p class="price">$19.99</p>
-            <p>Some text about the jeans..</p>
-            <p><button>Add to Cart</button></p>
-          </div>
-        </div>  
-        
-        <div class="col-lg-3 "> 
-          <div class="card">
-            <img src="img/t-shirt1.jpg" alt="Denim Jeans" style="width:100%">
-            <h1>Tailored Jeans</h1>
-            <p class="price">$19.99</p>
-            <p>Some text about the jeans..</p>
-            <p><button>Add to Cart</button></p>
-          </div>
-        </div> 
-        </div>  
-     </div>
-    </section> 
-      
+        </div>
+      </div>
+    </section>
+    
+
+<section class="rate">
+        <div class="container text-center">
+            <h2 class="heading pb-5 position-relative fw-900">Enjoy the pleasure of staying with us</h2>
+            <div>
+                <div id="myBtnContainer" class="text-center">
+                    <button class="btn1 active1" onclick="filterSelection('all')" fdprocessedid="6w04gr"> All</button>
+                    <button class="btn1" onclick="filterSelection('deluxe')" fdprocessedid="y1u8ip"> Deluxe</button>
+                    <button class="btn1" onclick="filterSelection('luxury')" fdprocessedid="tp2woj">Luxury</button>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-12 column p-xl-  p-3 deluxe show">
+                        <div class="content text-center  h-100 position-relative" onclick="location.href='./room-page/del-double.html'">
+                            <div class="imgcont position-relative">
+                                <img src="./img/bedroom-hotel.jpg" alt="img" class="img-fluid">
+                                <button class="pricebtn" fdprocessedid="1elt8">₹ 500</button>
+                            </div>
+                            <div class="px-3">
+                                <h5 class="py-2">DOUBLE BED <br>
+                                    DELUXE ROOM
+                                </h5>
+                                <p>Queen Bed | Cooler | Road facing Views</p>
+                                <p>Complimentary Breakfast</p>
+                                <hr class="my-1">
+                                <div>
+                                    <div class="flex-all-prop py-2">
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-user px-2"></i>
+                                            <p>5</p>
+                                        </div>
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-bed px-2"></i>
+                                            <p>2</p>
+                                        </div>
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-ruler px-2"></i>
+                                            <p>75 M<sup>2</sup></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12 column p-xl-  p-3 deluxe show">
+                        <div class="content text-center  h-100 position-relative" onclick="location.href='./room-page/del-triple.html'">
+                            <div class="imgcont position-relative">
+                                <img src="./img/bedroom-hotel.jpg" alt="img" class="img-fluid">
+                                <button class="pricebtn" fdprocessedid="60kjke">₹ 500</button>
+                            </div>
+                            <div class="px-3">
+                                <h5 class="py-2">TRIPLE BED <br>
+                                    DELUXE ROOM
+                                </h5>
+                                <p>1 Queen Bed | 1 Single Bed | Cooler</p>
+                                <p>Complimentary Breakfast</p>
+                                <hr class="my-1">
+                                <div>
+                                    <div class="flex-all-prop py-2">
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-user px-2"></i>
+                                            <p>5</p>
+                                        </div>
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-bed px-2"></i>
+                                            <p>2</p>
+                                        </div>
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-ruler px-2"></i>
+                                            <p>75 M<sup>2</sup></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12 column p-xl-  p-3 deluxe show">
+                        <div class="content text-center  h-100 position-relative" onclick="location.href='./room-page/del-four.html'">
+                            <div class="imgcont position-relative">
+                                <img src="./img/bedroom-hotel.jpg" alt="img" class="img-fluid">
+                                <button class="pricebtn" fdprocessedid="6gw0c1">₹ 500</button>
+                            </div>
+                            <div class="px-3">
+                                <h5 class="py-2">FOUR BED <br>
+                                    DELUXE ROOM
+                                </h5>
+                                <p>2 King Beds | Cooler | Amazing Views</p>
+                                <p>Complimentary Breakfast</p>
+                                <hr class="my-1">
+                                <div>
+                                    <div class="flex-all-prop py-2">
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-user px-2"></i>
+                                            <p>5</p>
+                                        </div>
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-bed px-2"></i>
+                                            <p>2</p>
+                                        </div>
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-ruler px-2"></i>
+                                            <p>75 M<sup>2</sup></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12 column p-xl-  p-3 luxury show">
+                        <div class="content text-center  h-100 position-relative" onclick="location.href='./room-page/lux-double.html'">
+                            <div class="imgcont position-relative">
+                                <img src="./img/bedroom-hotel.jpg" alt="img" class="img-fluid">
+                                <button class="pricebtn" fdprocessedid="bebbj">₹ 500</button>
+                            </div>
+                            <div class="px-3">
+                                <h5 class="py-2">DOUBLE BED <br>
+                                    LUXURY ROOM
+                                </h5>
+                                <p>Queen Bed | Air Conditioner | Market facing Views</p>
+                                <p>Complimentary Breakfast</p>
+                                <hr class="my-1">
+                                <div>
+                                    <div class="flex-all-prop py-2">
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-user px-2"></i>
+                                            <p>5</p>
+                                        </div>
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-bed px-2"></i>
+                                            <p>2</p>
+                                        </div>
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-ruler px-2"></i>
+                                            <p>75 M<sup>2</sup></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12 column p-xl-  p-3 luxury show">
+                        <div class="content text-center  h-100 position-relative" onclick="location.href='./room-page/lux-triple.html'">
+                            <div class="imgcont position-relative">
+                                <img src="./img/bedroom-hotel.jpg" alt="img" class="img-fluid">
+                                <button class="pricebtn" fdprocessedid="skzew">₹ 500</button>
+                            </div>
+                            <div class="px-3">
+                                <h5 class="py-2">TRIPLE BED <br>
+                                    LUXURY ROOM
+                                </h5>
+                                <p>1 Queen Bed, 1 Single Bed, Air Conditioner</p>
+                                <p>Complimentary Breakfast</p>
+                                <hr class="my-1">
+                                <div>
+                                    <div class="flex-all-prop py-2">
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-user px-2"></i>
+                                            <p>5</p>
+                                        </div>
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-bed px-2"></i>
+                                            <p>2</p>
+                                        </div>
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-ruler px-2"></i>
+                                            <p>75 M<sup>2</sup></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12 column p-xl-  p-3 luxury show">
+                        <div class="content text-center  h-100 position-relative" onclick="location.href='./room-page/lux-four.html'">
+                            <div class="imgcont position-relative">
+                                <img src="./img/bedroom-hotel.jpg" alt="img" class="img-fluid">
+                                <button class="pricebtn" fdprocessedid="5zt0bl">₹ 500</button>
+                            </div>
+                            <div class="px-3">
+                                <h5 class="py-2">FOUR BED <br>
+                                    LUXURY ROOM
+                                </h5>
+                                <p>2 King Beds | AC | Air Conditioner</p>
+                                <p>Complimentary Breakfast</p>
+                                <hr class="my-1">
+                                <div>
+                                    <div class="flex-all-prop py-2">
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-user px-2"></i>
+                                            <p>5</p>
+                                        </div>
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-bed px-2"></i>
+                                            <p>2</p>
+                                        </div>
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-ruler px-2"></i>
+                                            <p>75 M<sup>2</sup></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12 column p-xl-  p-3 luxury show">
+                      <div class="content text-center  h-100 position-relative" onclick="location.href='./room-page/lux-four.html'">
+                          <div class="imgcont position-relative">
+                              <img src="./img/bedroom-hotel.jpg" alt="img" class="img-fluid">
+                              <button class="pricebtn" fdprocessedid="5zt0bl">₹ 500</button>
+                          </div>
+                          <div class="px-3">
+                              <h5 class="py-2">FOUR BED <br>
+                                  LUXURY ROOM
+                              </h5>
+                              <p>2 King Beds | AC | Air Conditioner</p>
+                              <p>Complimentary Breakfast</p>
+                              <hr class="my-1">
+                              <div>
+                                  <div class="flex-all-prop py-2">
+                                      <div class="flex-all-prop">
+                                          <i class="ph ph-user px-2"></i>
+                                          <p>5</p>
+                                      </div>
+                                      <div class="flex-all-prop">
+                                          <i class="ph ph-bed px-2"></i>
+                                          <p>2</p>
+                                      </div>
+                                      <div class="flex-all-prop">
+                                          <i class="ph ph-ruler px-2"></i>
+                                          <p>75 M<sup>2</sup></p>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-lg-3 col-md-6 col-12 column p-xl-  p-3 luxury show">
+                        <div class="content text-center  h-100 position-relative" onclick="location.href='./room-page/lux-four.html'">
+                            <div class="imgcont position-relative">
+                                <img src="./img/bedroom-hotel.jpg" alt="img" class="img-fluid">
+                                <button class="pricebtn" fdprocessedid="5zt0bl">₹ 500</button>
+                            </div>
+                            <div class="px-3">
+                                <h5 class="py-2">FOUR BED <br>
+                                    LUXURY ROOM
+                                </h5>
+                                <p>2 King Beds | AC | Air Conditioner</p>
+                                <p>Complimentary Breakfast</p>
+                                <hr class="my-1">
+                                <div>
+                                    <div class="flex-all-prop py-2">
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-user px-2"></i>
+                                            <p>5</p>
+                                        </div>
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-bed px-2"></i>
+                                            <p>2</p>
+                                        </div>
+                                        <div class="flex-all-prop">
+                                            <i class="ph ph-ruler px-2"></i>
+                                            <p>75 M<sup>2</sup></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+  </section>
+
+
       {{-- footer section --}}
       <footer class="footer-area">
         <div class="container">
@@ -447,6 +581,51 @@
       // instead of a settings object
     ]
   });
+  
+filterSelection("all");
+function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("column");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+function w3AddClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) == -1) {
+      element.className += " " + arr2[i];
+    }
+  }
+}
+
+function w3RemoveClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
+// Add active class to the current button (highlight it)
+var btnContainer = document.getElementById("myBtnContainer");
+var btns = btnContainer.getElementsByClassName("btn1");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function () {
+    var current = document.getElementsByClassName("active1");
+    current[0].className = current[0].className.replace("active1", "");
+    this.className += " active";
+  });
+}
   </script>
   </body>
   </html>
